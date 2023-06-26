@@ -1,29 +1,29 @@
-### Просмотр проекта
+### Project Overview
 
-Так как проект выполнялся с помощью библиотеки Plotly, то для просмотра ноутбука с графиками, пожалуйста, перейдите по ссылке для просмотра в NBVIEWER: [ссылка на ноутбук](https://nbviewer.org/github/SergeyK-DS/Data-Analysis-Projects/blob/main/Transaction-analysis/analysis_transactions.ipynb).
+Since the project was done using the Plotly library, please follow the link to view the notebook with the graphs in NBVIEWER: [link to the notebook](https://nbviewer.org/github/SergeyK-DS/Data-Analysis-Projects/blob/main/Transaction-analysis/analysis_transactions.ipynb).
+### Dataset Information
 
-### Основная информация о наборе данных
+The dataset contains information about sales transactions, including details such as customer age, gender, location, and sold products. The dataset provides an opportunity to analyze sales transactions at multiple levels, including product, customer, and location.
 
-Набор данных содержит информацию о транзакциях продаж, включая такие сведения, как возраст клиента, пол, местоположение и проданные продукты. Набор данных предоставляет возможность анализировать транзакции продаж на нескольких уровнях, включая продукт, клиента и местоположение.
+### Project Goal
 
-### Цель проекта
+The goal of the project is to perform exploratory data analysis (EDA) on the dataset.
 
-Цель проекта состоит в проведении EDA-анализа данных.
 
 ### Дескрипторы столбцов
 
-- **Год**: год, в котором произошла транзакция.
-- **Месяц**: месяц, в котором произошла транзакция.
-- **Возраст клиента**: возраст клиента.
-- **Пол клиента**: пол клиента.
-- **Страна**: страна, в которой была совершена транзакция.
-- **Состояние**: состояние, в котором произошла транзакция.
-- **Категория продукта**: категория продукта.
-- **Подкатегория**: подкатегория продукта.
-- **Количество**: количество проданного товара.
-- **Стоимость единицы**: затраты на производство или приобретение одной единицы продукта.
-- **Цена за единицу**: цена, по которой была продана одна единица продукта.
-- **Стоимость**: общая стоимость проданных товаров.
-- **Доход**: общая выручка от продаж.
+- **Year**: The year in which the transaction occurred.
+- **Month**: The month in which the transaction occurred.
+- **Customer Age**: The age of the customer.
+- **Customer Gender**: The gender of the customer.
+- **Country**: The country where the transaction took place.
+- **State**: The state in which the transaction occurred
+- **Product Category**: The category of the product.
+- **Sub Category**: The subcategory of the product.
+- **Quantity**: The quantity of the sold item.
+- **Unit Cost**: The cost of production or acquisition of one unit of the product.
+- **Unit Price**: The price at which one unit of the product was sold.
+- **Cost**: Total transaction costs
+- **Revenue**: The total revenue from sales.
 
-Набор данных предоставляет всестороннее представление о транзакциях продаж и может быть использован для анализа различных аспектов продаж.
+The dataset provides a comprehensive representation of sales transactions and can be used to analyze various aspects of sales.
