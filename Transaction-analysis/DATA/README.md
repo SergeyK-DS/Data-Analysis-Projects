@@ -1,1 +1,1 @@
-#### В файле salesforcourse-4fe2kehu содержатся данные для проекта.
+#### The 'salesforcourse-4fe2kehu.csv' file contains data for the project.
