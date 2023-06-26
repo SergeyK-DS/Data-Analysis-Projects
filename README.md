@@ -1,1 +1,1 @@
-### В данном репозитории находятся проекты по анализу данных
+### This repository contains data analysis projects
